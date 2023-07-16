@@ -1,0 +1,24 @@
+body {
+  background-color: slategrey;
+}
+
+#job1 {
+  font-family: 'Lumanosimo', cursive;
+  border-style: ridge;
+  border-color: black;
+  border-width: 2px;
+}
+
+#job2 {
+  font-family: 'Open Sans', sans-serif;
+  border-style: dotted;
+  border-color: green;
+  border-width: 12px;
+}
+
+#job3 {
+  font-family: 'Tektur', cursive;
+  border-style: dashed;
+  border-color: purple;
+  border-width: 6px;
+}
